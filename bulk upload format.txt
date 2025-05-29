@@ -11,5 +11,3 @@
 #intensity (minor or major)
 #timestamp (hh:mm:ss)
 .
-..
-...
