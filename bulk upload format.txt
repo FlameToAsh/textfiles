@@ -1,0 +1,15 @@
+#movie title
+#year of release
+#timestamp (hh:mm:ss)
+#jumpscare description
+#intensity (minor or major)
+#timestamp (hh:mm:ss)
+#jumpscare description
+#intensity (minor or major)
+#timestamp (hh:mm:ss)
+#jumpscare description
+#intensity (minor or major)
+#timestamp (hh:mm:ss)
+.
+..
+...
